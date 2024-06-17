@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+<svg viewBox="-131.1 -407.903 533 340.474" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
   <defs>
     <pattern id="pattern-0" viewBox="0 0 63 63" patternUnits="userSpaceOnUse" width="63" height="63" patternTransform="translate(0,0)" bx:pinned="true">
       <defs>
@@ -32,8 +32,20 @@
     <pattern id="pattern-1-3" patternTransform="matrix(1, 0, 0, 1, 323.298677, -242.754091)" xlink:href="#pattern-1"/>
     <pattern id="pattern-1-2" patternTransform="matrix(1, 0, 0, 1, -24.812841, 479.303499)" xlink:href="#pattern-1"/>
     <pattern id="pattern-1-4" patternTransform="matrix(1, 0, 0, 1, -287.042816, -541.827148)" xlink:href="#pattern-1"/>
+    <view id="view-1" viewBox="-131.1 -34.4 533 400">
+      <title>Superior</title>
+    </view>
+    <view id="view-2" viewBox="-131.1 398.8 533 400">
+      <title>Lateral 2</title>
+    </view>
+    <view id="view-3" viewBox="422.9 -34.4 530 400">
+      <title>Lateral 3</title>
+    </view>
+    <view id="view-4" viewBox="-131.1 -407.903 533 340.474">
+      <title>Lateral 1</title>
+    </view>
   </defs>
-  <g style="" transform="matrix(1, 0, 0, 1, 0, -11)">
+  <g style="" transform="matrix(1, 0, 0, 1, -43, -45)">
     <title>lateral 1</title>
     <rect y="-345.694" width="355.769" height="281.065" style="stroke: rgb(0, 0, 0);"/>
     <rect x="15" y="-326" width="327" height="250" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
@@ -80,8 +92,6 @@
     <rect width="43.711" height="106.998" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x="189.844" y="-333.008"/>
     <rect width="43.711" height="106.998" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x="233.555" y="-333.008"/>
     <rect width="64.734" height="106.998" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x="277.266" y="-333.006"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="342" y1="22.456" x2="282" y2="22.456"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 322.866px 42.909px;" x="307.292" y="37.998">60</text>
     <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="277" y1="-56.989" x2="207" y2="-56.989"/>
     <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 255.865px -36.536px;" x="240.291" y="-41.447">70</text>
     <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="277" y1="-64.629" x2="277" y2="-45.629"/>
@@ -101,7 +111,7 @@
     <rect x="-0.4" y="-93.543" width="15.4" height="17.534" style="fill: rgb(88, 88, 88);"/>
     <rect x="355.769" y="-290.986" width="2" height="215" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   </g>
-  <g style="">
+  <g style="" transform="matrix(1, 0, 0, 1, -43, 0)">
     <title>superior</title>
     <rect x="15" y="15" width="327" height="267" style="fill: url('#pattern-0-0');">
       <title>piso</title>
@@ -226,7 +236,7 @@
     <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 11px; white-space: pre; transform-origin: 292.14px -9.334px;" x="276.566" y="-14.245">COOKTOP</text>
     <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="276.994" y1="142.038" x2="276.994" y2="161.038"/>
   </g>
-  <g style="">
+  <g style="" transform="matrix(1, 0, 0, 1, -44, 78)">
     <title>lateral 2</title>
     <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="261.999" y1="630.707" x2="261.999" y2="678.34"/>
     <rect y="395.707" width="340.769" height="250" style="stroke-width: 0.5px; fill: rgb(255, 255, 255);" x="15"/>
@@ -293,7 +303,7 @@
     <rect x="342.4" y="628.164" width="13.769" height="18" style="fill: rgb(88, 88, 88);"/>
     <rect y="436.178" width="15" height="191.986" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px; fill: url('#pattern-1-2');"/>
   </g>
-  <g style="" transform="matrix(1, 0, 0, 1, 483.12561, -374.220001)">
+  <g style="" transform="matrix(1, 0, 0, 1, 547.12561, -374.220001)">
     <title>lateral 3</title>
     <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="224" y1="650.123" x2="224" y2="678.34"/>
     <rect x="-289.4" y="-644.055" width="267" height="255.356" style="fill: url('#pattern-1-4'); transform-origin: -155.9px -516.377px;" transform="matrix(-1, 0, 0, -1, 311.799316, 1032.753418)"/>
