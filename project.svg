@@ -31,7 +31,7 @@
     <pattern id="pattern-1-0" patternTransform="matrix(1, 0, 0, 1, -342.350718, 170.104065)" xlink:href="#pattern-1"/>
     <pattern id="pattern-1-3" patternTransform="matrix(1, 0, 0, 1, 323.298677, -242.754091)" xlink:href="#pattern-1"/>
     <pattern id="pattern-1-2" patternTransform="matrix(1, 0, 0, 1, -24.812841, 479.303499)" xlink:href="#pattern-1"/>
-    <pattern id="pattern-1-4" patternTransform="matrix(1, 0, 0, 1, -287.042816, -541.827148)" xlink:href="#pattern-1"/>
+    <pattern id="pattern-1-4" patternTransform="matrix(1, 0, 0, 1, -287.042725, -562.827393)" xlink:href="#pattern-1"/>
     <view id="view-1" viewBox="-131.1 -34.4 533 400">
       <title>Superior</title>
     </view>
@@ -45,7 +45,7 @@
       <title>Lateral 1</title>
     </view>
   </defs>
-  <g style="" transform="matrix(1, 0, 0, 1, -43, -45)">
+  <g style="pointer-events: none;" transform="matrix(1, 0, 0, 1, -43, -45)">
     <title>lateral 1</title>
     <rect y="-345.694" width="355.769" height="281.065" style="stroke: rgb(0, 0, 0);"/>
     <rect x="15" y="-326" width="327" height="250" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
@@ -111,7 +111,7 @@
     <rect x="-0.4" y="-93.543" width="15.4" height="17.534" style="fill: rgb(88, 88, 88);"/>
     <rect x="355.769" y="-290.986" width="2" height="215" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
   </g>
-  <g style="" transform="matrix(1, 0, 0, 1, -43, 0)">
+  <g style="pointer-events: none;" transform="matrix(1, 0, 0, 1, -43, 0)">
     <title>superior</title>
     <rect x="15" y="15" width="327" height="267" style="fill: url('#pattern-0-0');">
       <title>piso</title>
@@ -125,7 +125,7 @@
     <rect x="115" y="20.728" width="91.994" height="55" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px; fill: rgb(88, 88, 88);">
       <title>área molhada</title>
     </rect>
-    <g transform="matrix(0, 1, -1, 0, -583.247803, -205.998047)" style="transform-origin: 698.926px 250px;">
+    <g transform="matrix(0, 1, -1, 0, -588.247803, -205.998047)" style="transform-origin: 698.926px 250px;">
       <title>pia</title>
       <g transform="matrix(1, 0, 0, 1, 0, -261.931793)">
         <rect x="679.652" y="431.085" width="43" height="62" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
@@ -236,7 +236,7 @@
     <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 11px; white-space: pre; transform-origin: 292.14px -9.334px;" x="276.566" y="-14.245">COOKTOP</text>
     <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="276.994" y1="142.038" x2="276.994" y2="161.038"/>
   </g>
-  <g style="" transform="matrix(1, 0, 0, 1, -44, 78)">
+  <g style="pointer-events: none;" transform="matrix(1, 0, 0, 1, -44, 78)">
     <title>lateral 2</title>
     <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="261.999" y1="630.707" x2="261.999" y2="678.34"/>
     <rect y="395.707" width="340.769" height="250" style="stroke-width: 0.5px; fill: rgb(255, 255, 255);" x="15"/>
@@ -305,65 +305,80 @@
   </g>
   <g style="" transform="matrix(1, 0, 0, 1, 547.12561, -374.220001)">
     <title>lateral 3</title>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="224" y1="650.123" x2="224" y2="678.34"/>
-    <rect x="-289.4" y="-644.055" width="267" height="255.356" style="fill: url('#pattern-1-4'); transform-origin: -155.9px -516.377px;" transform="matrix(-1, 0, 0, -1, 311.799316, 1032.753418)"/>
-    <path d="M 7.399 376.96 L 302.769 377.22 L 302.689 648.251 L 289.889 648.251 L 289.399 388.699 L 22.399 388.699 L 22.399 645.796 L 289.4 645.708 L 302.691 646.164 L 302.769 657.078 L 7.399 656.818 L 7.399 376.96 Z" style="stroke: rgb(0, 0, 0);"/>
-    <rect x="234.4" y="551.448" width="55" height="8" style="fill: rgb(88, 88, 88);"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="154" y1="671.984" x2="86" y2="671.984"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 61.293px 673.225px;" x="45.719" y="668.314">65</text>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="224" y1="671.984" x2="154" y2="671.984"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 184.954px 673.225px;" x="169.38" y="668.314">70</text>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="289" y1="671.984" x2="224" y2="671.984"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 261.839px 673.225px;" x="246.265" y="668.314">65</text>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="289" y1="657.454" x2="289" y2="678.34"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="153.999" y1="645.707" x2="153.999" y2="678.34"/>
-    <rect x="259.4" y="388.699" width="30" height="106.999" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-3.231" y1="558.991" x2="-3.231" y2="627.707"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-3.231" y1="495.241" x2="-3.231" y2="541.251"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.28px;" transform="matrix(0, -1, 1, 0, 41.687363, 332.396576)" x="-61.677" y="174.369">46</text>
-    <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" d="M -3.231 388.242 C -3.231 396.185 -3.231 501.04 -3.231 494.99"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.155px;" transform="matrix(0, -1, 1, 0, 40.862167, 406.945374)" x="-61.677" y="174.369">68</text>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.28px;" transform="matrix(0, -1, 1, 0, 41.687363, 260.340302)" x="-61.677" y="174.369">107</text>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="42.399" y1="645.25" x2="-41.209" y2="645.25"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="13.664" y1="551.25" x2="-41.209" y2="551.25"/>
-    <rect x="242.234" y="627.707" width="47.166" height="18" style="fill: rgb(88, 88, 88);"/>
-    <rect x="238.422" y="559.698" width="51.577" height="68.466" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="13.861" y1="495.242" x2="-20.196" y2="495.242"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="13.861" y1="388.242" x2="-20.196" y2="388.242"/>
-    <rect x="234.4" y="541.448" width="55" height="10" style="fill: rgb(88, 88, 88);"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="12.753" y1="541.251" x2="-20.196" y2="541.251"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-3.231" y1="541.251" x2="-3.231" y2="551.251"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.28px;" transform="matrix(0, -1, 1, 0, 20.554779, 412.820374)" x="-61.677" y="174.369">94</text>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-3.231" y1="551.241" x2="-3.231" y2="559.241"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.28px;" transform="matrix(0, -1, 1, 0, 41.490372, 364.136993)" x="-61.677" y="174.369">8</text>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="13.664" y1="559.241" x2="-20.196" y2="559.241"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-3.231" y1="627.707" x2="-3.231" y2="645.707"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.155px;" transform="matrix(0, -1, 1, 0, 41.562393, 448.869873)" x="-61.677" y="174.369">18</text>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="42.202" y1="627.707" x2="-20.393" y2="627.707"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-24.228" y1="551.251" x2="-24.228" y2="645.251"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.28px;" transform="matrix(0, -1, 1, 0, 26.554749, 354.386963)" x="-61.677" y="174.369">10</text>
-    <rect y="452.07" width="70" height="193.638" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px; fill: rgb(255, 255, 255);" x="154"/>
-    <rect x="22.4" y="551.448" width="55" height="8" style="fill: rgb(88, 88, 88);"/>
-    <rect x="22.4" y="559.698" width="51.577" height="68.466" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
-    <rect x="73.977" y="559.698" width="38.662" height="68.466" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
-    <rect x="112.639" y="559.698" width="38.124" height="68.466" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
-    <rect x="22.4" y="627.708" width="47.166" height="18" style="fill: rgb(88, 88, 88);"/>
-    <rect x="69.566" y="627.707" width="86" height="18" style="fill: rgb(88, 88, 88);"/>
-    <rect x="22.4" y="541.448" width="131.6" height="10" style="fill: rgb(88, 88, 88);"/>
-    <rect x="77.4" y="551.448" width="76.6" height="8" style="fill: rgb(88, 88, 88);"/>
-    <rect x="22.4" y="388.7" width="30" height="106.999" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
-    <rect y="452.526" width="84.698" height="88.922" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px; fill: rgb(255, 255, 255);" x="59.279"/>
-    <rect x="59.279" y="539.448" width="84.698" height="2" style="fill: rgb(88, 88, 88);"/>
-    <rect x="154" y="644.164" width="70" height="2" style="fill: rgb(88, 88, 88);"/>
-    <rect y="452.786" width="43.097" height="86.662" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px; fill: rgb(255, 255, 255);" x="59.279"/>
-    <rect y="452.07" width="11.7" height="191.984" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px; fill: rgb(255, 255, 255);" x="212.3"/>
-    <rect x="77.376" y="549.496" width="60" height="2" style=""/>
-    <rect y="544.708" width="4" height="7" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x="215.781"/>
-    <rect x="222.234" y="628.164" width="20" height="18" style="fill: rgb(88, 88, 88);"/>
-    <rect y="494.453" width="4" height="7" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x="138.249"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="86" y1="671.984" x2="21" y2="671.984"/>
-    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 121.656px 673.225px;" x="106.082" y="668.314">68</text>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="86" y1="653.078" x2="86" y2="678.34"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="21" y1="650.123" x2="21" y2="678.34"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="224" y1="671.123" x2="224" y2="699.34"/>
+    <rect x="-289.4" y="-665.055" width="267" height="255.356" style="fill: url('#pattern-1-4'); transform-origin: -155.9px -537.377px;" transform="matrix(-1, 0, 0, -1, 311.799408, 1074.753174)"/>
+    <path d="M 7.399 397.96 L 302.769 398.22 L 302.689 669.251 L 289.889 669.251 L 289.399 409.699 L 22.399 409.699 L 22.399 666.796 L 289.4 666.708 L 302.691 667.164 L 302.769 678.078 L 7.399 677.818 L 7.399 397.96 Z" style="stroke: rgb(0, 0, 0);"/>
+    <rect x="234.4" y="572.448" width="55" height="8" style="fill: rgb(88, 88, 88);"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="154" y1="692.984" x2="86" y2="692.984"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 61.293px 694.225px;" x="45.719" y="689.314">65</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="224" y1="692.984" x2="154" y2="692.984"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 184.954px 694.225px;" x="169.38" y="689.314">70</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="289" y1="692.984" x2="224" y2="692.984"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 261.839px 694.225px;" x="246.265" y="689.314">65</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="289" y1="678.454" x2="289" y2="699.34"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="153.999" y1="666.707" x2="153.999" y2="699.34"/>
+    <rect x="259.4" y="409.699" width="30" height="106.999" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-3.231" y1="579.991" x2="-3.231" y2="648.707"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-3.231" y1="516.241" x2="-3.231" y2="562.251"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.28px;" transform="matrix(0, -1, 1, 0, 41.687363, 353.396576)" x="-61.677" y="174.369">46</text>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" d="M -3.231 409.242 C -3.231 417.185 -3.231 522.04 -3.231 515.99"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.155px;" transform="matrix(0, -1, 1, 0, 40.862167, 427.945374)" x="-61.677" y="174.369">68</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.28px;" transform="matrix(0, -1, 1, 0, 41.687363, 281.340302)" x="-61.677" y="174.369">107</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="42.399" y1="666.25" x2="-41.209" y2="666.25"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="13.664" y1="572.25" x2="-41.209" y2="572.25"/>
+    <rect x="242.234" y="648.707" width="47.166" height="18" style="fill: rgb(88, 88, 88);"/>
+    <rect x="238.422" y="580.698" width="51.577" height="68.466" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="13.861" y1="516.242" x2="-20.196" y2="516.242"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="13.861" y1="409.242" x2="-20.196" y2="409.242"/>
+    <rect x="234.4" y="562.448" width="55" height="10" style="fill: rgb(88, 88, 88);"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="12.753" y1="562.251" x2="-20.196" y2="562.251"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-3.231" y1="562.251" x2="-3.231" y2="572.251"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.28px;" transform="matrix(0, -1, 1, 0, 20.554779, 433.820374)" x="-61.677" y="174.369">94</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-3.231" y1="572.241" x2="-3.231" y2="580.241"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.28px;" transform="matrix(0, -1, 1, 0, 41.490585, 385.136993)" x="-61.677" y="174.369">8</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="13.664" y1="580.241" x2="-20.196" y2="580.241"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-3.231" y1="648.707" x2="-3.231" y2="666.707"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.155px;" transform="matrix(0, -1, 1, 0, 41.562393, 469.869873)" x="-61.677" y="174.369">18</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="42.202" y1="648.707" x2="-20.393" y2="648.707"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" x1="-24.228" y1="572.251" x2="-24.228" y2="666.251"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: -46.103px 179.28px;" transform="matrix(0, -1, 1, 0, 26.554749, 375.386963)" x="-61.677" y="174.369">10</text>
+    <rect y="473.07" width="70" height="193.638" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px; fill: rgb(255, 255, 255);" x="154"/>
+    <rect x="22.4" y="572.448" width="55" height="8" style="fill: rgb(88, 88, 88);"/>
+    <rect x="22.4" y="580.698" width="51.577" height="68.466" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
+    <rect x="73.977" y="580.698" width="38.662" height="68.466" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
+    <rect x="112.639" y="580.698" width="38.124" height="68.466" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
+    <rect x="22.4" y="648.708" width="47.166" height="18" style="fill: rgb(88, 88, 88);"/>
+    <rect x="69.566" y="648.707" width="86" height="18" style="fill: rgb(88, 88, 88);"/>
+    <rect x="22.4" y="562.448" width="131.6" height="10" style="fill: rgb(88, 88, 88);"/>
+    <rect x="77.4" y="572.448" width="76.6" height="8" style="fill: rgb(88, 88, 88);"/>
+    <rect x="22.4" y="409.7" width="30" height="106.999" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;"/>
+    <rect y="473.526" width="84.698" height="88.922" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px; fill: rgb(255, 255, 255);" x="59.279"/>
+    <rect x="59.279" y="560.448" width="84.698" height="2" style="fill: rgb(88, 88, 88);"/>
+    <rect x="154" y="665.164" width="70" height="2" style="fill: rgb(88, 88, 88);"/>
+    <rect y="473.786" width="43.097" height="86.662" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px; fill: rgb(255, 255, 255);" x="59.279"/>
+    <rect y="473.07" width="11.7" height="191.984" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px; fill: rgb(255, 255, 255);" x="212.3"/>
+    <rect x="77.376" y="570.496" width="60" height="2" style=""/>
+    <rect y="565.708" width="4" height="7" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x="215.781"/>
+    <rect x="222.234" y="649.164" width="20" height="18" style="fill: rgb(88, 88, 88);"/>
+    <rect y="515.453" width="4" height="7" style="stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x="138.249"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="86" y1="692.984" x2="21" y2="692.984"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 121.656px 694.225px;" x="106.082" y="689.314">68</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="86" y1="674.078" x2="86" y2="699.34"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="21" y1="671.123" x2="21" y2="699.34"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="154" y1="390.67" x2="143.977" y2="390.67"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 112.643px 389.846px;" x="97.069" y="384.935">84</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="224" y1="390.67" x2="154" y2="390.67"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 157.551px 389.909px;" x="141.977" y="384.998">10</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="143.977" y1="390.67" x2="59.065" y2="390.67"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="59.065" y1="374.147" x2="59.065" y2="409.242"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="143.977" y1="374.863" x2="143.977" y2="409.242"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; transform-origin: 154px 391.93px;" x1="154" y1="374.864" x2="154" y2="409.7"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; transform-origin: 218.159px 400.617px;" x1="224" y1="374.864" x2="224" y2="409.7"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 196.313px 389.846px;" x="180.739" y="384.935">70</text>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px;" x1="22.399" y1="374.864" x2="22.399" y2="473.787"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); marker-start: url('#marker-1'); marker-end: url('#marker-1'); stroke-width: 0.5px;" x1="59.279" y1="390.67" x2="22.399" y2="390.67"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 49.192px 389.909px;" x="33.618" y="384.998">37</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre; transform-origin: 99.296px 503.74px;" x="83.722" y="498.829" transform="matrix(0, -1, 1, 0, 3.060555, 5.138802)">87</text>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 0.5px; marker-start: url('#marker-1'); marker-end: url('#marker-1');" d="M 102.376 473.786 C 102.376 480.219 102.376 565.144 102.376 560.244"/>
   </g>
 </svg>
